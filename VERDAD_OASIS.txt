@@ -1,3 +1,4 @@
 1. Inauguración del Segundo Ciclo Soberano (Pilar 1): Inicio de la nueva fase de investigación en Capa 0 bajo Licencia AGPLv3 por Mariano Panzano Caballé.
 2. Migración y Consolidación del Paper Maestro de Navier-Stokes (Pilar 2): Establecimiento de la regularidad global C^infinity y acotamiento por enstrofía en silicio frío.
 2. Migración y Consolidación del Paper Maestro de Navier-Stokes (Pilar 2): Establecimiento de la regularidad global C^infinity y acotamiento por enstrofía en silicio frío bajo Licencia AGPLv3.
+4. Consolidación del Paper A de Navier-Stokes (Pilar 4): Modelado computacional de LES sin parámetros y validación del Vórtice de Taylor-Green bajo Licencia AGPLv3.
