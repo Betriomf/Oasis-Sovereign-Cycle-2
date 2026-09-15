@@ -2,3 +2,4 @@
 2. Migración y Consolidación del Paper Maestro de Navier-Stokes (Pilar 2): Establecimiento de la regularidad global C^infinity y acotamiento por enstrofía en silicio frío.
 2. Migración y Consolidación del Paper Maestro de Navier-Stokes (Pilar 2): Establecimiento de la regularidad global C^infinity y acotamiento por enstrofía en silicio frío bajo Licencia AGPLv3.
 4. Consolidación del Paper A de Navier-Stokes (Pilar 4): Modelado computacional de LES sin parámetros y validación del Vórtice de Taylor-Green bajo Licencia AGPLv3.
+5. Manuscrito LaTeX para Revista de Fluidos (Pilar 5): Cierre subgrid libre de parametros derivado de atractor informacional ($C_s \approx 0.132$) y convergencia en $W_1$ bajo Licencia AGPLv3.
